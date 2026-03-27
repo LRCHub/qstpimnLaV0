@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "He Touched Me",
+  "base_artist": "Barbra Streisand",
+  "createdAt": "2026-03-27T07:21:39.453451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "He Touched Me",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/01_He_Touched_Me_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "He Touched Me",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/02_He_Touched_Me_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "He Touched Me",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/03_He_Touched_Me_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "He Touched Me - Alternate Take 2",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/04_He_Touched_Me_-_Alternate_Take_2_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Touched Me",
+      "artist": "Bill & Gloria Gaither",
+      "has_synced": true,
+      "path": "select/05_He_Touched_Me_Bill_&_Gloria_Gaither.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "He Touched Me",
+      "artist": "Gaither Vocal Band",
+      "has_synced": true,
+      "path": "select/06_He_Touched_Me_Gaither_Vocal_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "He Touched Me",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/pl_01_He_Touched_Me_Barbra_Streisand.txt"
+    }
+  ]
+}
